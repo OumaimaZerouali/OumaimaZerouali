@@ -13,6 +13,9 @@ I am Oumaima Zerouali, currently a **junior Java developer**. I hold a recent gr
 <a href="https://www.credly.com/badges/cf851485-21b6-4a6f-b677-8ede20219361/linked_in?t=s2rqyn">
     <img src="https://github.com/OumaimaZerouali/OumaimaZerouali/assets/130987421/03ff5461-f8da-42fc-8d0d-d617397145c2" alt="image" width="200">
 </a>
+<a href=https://www.linkedin.com/posts/activity-7236272866680320000-agFR?utm_source=share&utm_medium=member_desktop">
+    <img src="https://github.com/user-attachments/files/16984249/angular_junior_cert.pdf" alt="image" width="200">[angular_junior_cert.pdf]()
+</a>
 
 
 ## My Latest Blogposts 
