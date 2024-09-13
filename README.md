@@ -21,6 +21,9 @@ I am Oumaima Zerouali, currently a **junior Java developer**. I hold a recent gr
 - [The imperfect yet crucial role of performance testing](https://blog.ordina-jworks.io/testing/2024/02/23/performance-testing.html)
 - [Cloud kickstart components](https://blog.ordina-jworks.io/cloud/2023/06/14/cloud-kickstart-components.html)
 
+## My Projects
+- [What holiday is it today?] (https://oumaimazerouali.github.io/whatholidayisittoday/)
+
 ## Connect With Me 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oumaima-zerouali-16b189223/)
 
