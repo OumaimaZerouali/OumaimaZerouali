@@ -25,6 +25,7 @@ I am Oumaima Zerouali, currently a **junior Java developer**. I hold a recent gr
 ## My Projects
 - [What holiday is it today?](https://oumaimazerouali.github.io/whatholidayisittoday/)
 - [Hacker themed portfolio (basic)](https://oumaimazerouali.github.io/hacker-themed-portfolio/)
+- [Dev's Insights](https://oumaimazerouali.github.io/devs-insights/)
 
 ## Connect With Me 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oumaima-zerouali-16b189223/)
