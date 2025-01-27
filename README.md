@@ -8,6 +8,8 @@ I am Oumaima Zerouali, currently a **junior Java developer**. I hold a recent gr
 - Angular
 - AWS
 - Terraform
+- Spring boot
+- Quarkus
 
 ## Achievements
 <a href="https://www.credly.com/badges/cf851485-21b6-4a6f-b677-8ede20219361/linked_in?t=s2rqyn">
