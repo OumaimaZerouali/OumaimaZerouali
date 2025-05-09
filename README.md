@@ -27,6 +27,7 @@ I am Oumaima Zerouali, currently a **junior Java developer**. I hold a recent gr
 - [Why I love being a programmer](https://oumaimazerouali.github.io/devs-insights/2025/02/06/i-love-my-job.html)
 
 ## My Projects
+- [JCast (Dutch Podcast)](https://open.spotify.com/show/3wfdG6IjCoJjfEx33MsM2W?si=icTB9tDwS1aNH8SwXURH7g)
 - [What holiday is it today?](https://oumaimazerouali.github.io/whatholidayisittoday/)
 - [Hacker themed portfolio (basic)](https://oumaimazerouali.github.io/hacker-themed-portfolio/)
 - [Dev's Insights](https://oumaimazerouali.github.io/devs-insights/)
