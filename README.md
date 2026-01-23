@@ -23,7 +23,7 @@ I am Oumaima Zerouali, currently a **junior Java developer**. I hold a recent gr
 - [JCast (Dutch Podcast)](https://open.spotify.com/show/3wfdG6IjCoJjfEx33MsM2W?si=icTB9tDwS1aNH8SwXURH7g)
 - [What holiday is it today?](https://oumaimazerouali.github.io/whatholidayisittoday/)
 - [Hacker themed portfolio (basic)](https://oumaimazerouali.github.io/hacker-themed-portfolio/)
-- [Oumi's Corner](https://www.ozerouali.com)
+- [Oumi's Blog](https://www.ozerouali.com)
 - [DotMD](https://oumaimazerouali.github.io/DotMD/)
 
 
